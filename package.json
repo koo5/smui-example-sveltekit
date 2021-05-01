@@ -16,6 +16,9 @@
   "devDependencies": {
     "@material/theme": "^11.0.0",
     "@material/typography": "^11.0.0",
+    "@smui/data-table": "^4.1.0",
+    "@smui/icon-button": "^4.1.0",
+    "@smui/linear-progress": "^4.1.0",
     "@sveltejs/adapter-node": "next",
     "@sveltejs/kit": "next",
     "sass": "^1.32.11",

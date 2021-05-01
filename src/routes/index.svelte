@@ -10,8 +10,13 @@
   {/if}
 </p>
 
+<Test_smui_data_table/>
+<Test_smui_stuff/>
+
 <script>
-  import Button, { Label, Icon } from "@smui/button";
+  import Button, {Label, Icon} from "@smui/button";
+  import Test_smui_data_table from './Test_smui_data_table.svelte';
+  import Test_smui_stuff from './Test_smui_stuff.svelte';
 
   let clicked = 0;
 </script>
